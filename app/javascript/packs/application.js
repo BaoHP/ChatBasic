@@ -13,6 +13,6 @@ Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
 
-$(document).on('turbolinks:load', function(){
-    console.log("hello bao");
-})
+// $(document).on('turbolinks:load', function(){
+//     console.log("hello bao");
+// })
